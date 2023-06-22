@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ATP-Project-PartC">
+    <output-path>$PROJECT_DIR$/out/artifacts/ATP_Project_PartC</output-path>
+    <root id="archive" name="ATP-Project-PartC.jar">
+      <element id="archive" name="ATP_Project_PartC.jar">
+        <element id="module-output" name="ATP-Project-PartC" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/src/ViewModel/ATPProjectJAR.jar" />
+      <element id="library" level="project" name="C:\Users\yaelm\Downloads\javafx-sdk-20.0.1\lib" />
+    </root>
+  </artifact>
+</component>
